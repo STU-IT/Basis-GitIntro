@@ -1,7 +1,6 @@
 #GitHub vedledning
 _CS 50 /linux version_
-
-_**Hvor dan gør man så med det der git og hub?**_
+_ **Hvor dan gør man så med det der git og hub?** _
 
 ## Først skal du lave en `Fork`.
 På github.org skal du oprette en konto og logge ind.
@@ -39,7 +38,7 @@ Git skal vide hvem der laver ændinger så man skal give et navn og en email. (B
 Skriv: `git config --global user.email smag.tec.dk` 
 hvor du selvfølgelig ikke bruger min mail, men dig egen.
 Skriv mere:  `git config --global user.name "Soren Magnusson"`
-Og nej, du hedder _**ikke**_ Søren Magnusson
+Og nej, du hedder __ *ikke* __ Søren Magnusson
 
 ## Add og Commit
 Nu kan vi tilføje den nye fil til git.
@@ -57,3 +56,7 @@ og skriv så dit brugernavn eller email til github, når du bliver bedt om det
 og dit password, bagefter: 
 `Password for 'https://s0ren@github.com':`
 og lidt efter, ligger det hele på github.org.
+
+## Bed om en tilbagelægning
+På github-engelsk, et pull request.
+Der er når man foreslår at de ændringer man har lavet i sin __fork__ af projektet, bliver lagt ind i original-projektet.
