@@ -62,8 +62,8 @@ og lidt efter, ligger det hele på github.org.
 ## Bed om en tilbagelægning
 På github-engelsk, et pull request.
 Der er når man foreslår at de ændringer man har lavet i sin __fork__ af projektet, bliver lagt ind i original-projektet.
-![zzz](fork_pull_request1.PNG)
-![zzz](fork_pull_request2.PNG)
-![zzz](fork_pull_request3.PNG)
+![zzz](img/fork_pull_request1.PNG)
+![zzz](img/fork_pull_request2.PNG)
+![zzz](img/fork_pull_request3.PNG)
 
 
