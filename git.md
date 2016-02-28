@@ -1,6 +1,7 @@
 #GitHub vedledning
 _CS 50 /linux version_
-_ **Hvor dan gør man så med det der git og hub?** _
+
+_**Hvor dan gør man så med det der git og hub?**_
 
 ## Først skal du lave en `Fork`.
 På github.org skal du oprette en konto og logge ind.
@@ -13,8 +14,7 @@ Når du har kigget på den sjove animation, har du fået oprettet din helt egen 
 ## Vi skal Klone
 med kommandoe `Clone`.
 På min maskine skrev jeg følgende:
- ```
-jharvard@appliance (~/basis): git clone https://github.com/s0ren/Basis-C-Hello.git```
+`jharvard@appliance (~/basis): git clone https://github.com/s0ren/Basis-C-Hello.git`
 og git svarede:
 ``` 
 Cloning into 'Basis-C-Hello'...
@@ -39,7 +39,7 @@ Git skal vide hvem der laver ændinger så man skal give et navn og en email. (B
 Skriv: `git config --global user.email smag.tec.dk` 
 hvor du selvfølgelig ikke bruger min mail, men dig egen.
 Skriv mere:  `git config --global user.name "Soren Magnusson"`
-Og nej, du hedder __ *ikke* __ Søren Magnusson
+Og nej, du hedder _**ikke**_ Søren Magnusson
 
 ## Add og Commit
 Nu kan vi tilføje den nye fil til git.
