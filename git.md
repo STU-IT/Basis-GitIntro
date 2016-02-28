@@ -9,6 +9,7 @@ Find herefter projektet __Basis-C-Hello__ Søg enten på __STU-IT__ eller på __
 
 Når du har oprettet dig som bruger, og logget ind, vælger du øverts til venstre, på siden.
 ![Den sjove animation](img/fork-a-repo.gif)
+
 Når du har kigget på den sjove animation, har du fået oprettet din helt egen kopi af projektet. Det er den du skal arbejde videre med på din computer. Altså i __CS 50 maskinen__.
 
 ## Vi skal Klone
