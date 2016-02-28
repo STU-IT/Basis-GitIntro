@@ -63,7 +63,10 @@ og lidt efter, ligger det hele på github.org.
 På github-engelsk, et pull request.
 Der er når man foreslår at de ændringer man har lavet i sin __fork__ af projektet, bliver lagt ind i original-projektet.
 ![zzz](img/fork_pull_request1.PNG)
+Her får vi et overblik over ændringerne i filerne som vi har lavet. Forken vs. det originale.
 ![zzz](img/fork_pull_request2.PNG)
+Her kan vi skive en kommentar, og bekræfte pull requestet.
 ![zzz](img/fork_pull_request3.PNG)
+Her kan ejeren af original-projektet se hvilke pull requests der er kommet. Dvs. jeg kan se hvem der har afleveret!
 
 
