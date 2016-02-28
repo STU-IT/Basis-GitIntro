@@ -1,6 +1,7 @@
-#GitHub vedledning
+#GitHub vejledning
 _CS 50 /linux version_
-_ **Hvor dan gør man så med det der git og hub?** _
+
+__*Hvordan gør man så med det der git og hub?*__
 
 ## Først skal du lave en `Fork`.
 På github.org skal du oprette en konto og logge ind.
