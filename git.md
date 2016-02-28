@@ -8,6 +8,7 @@ Find herefter projektet __Basis-C-Hello__ Søg enten på __STU-IT__ eller på __
 
 
 Når du har oprettet dig som bruger, og logget ind, vælger du øverts til venstre, på siden.
+![Den sjove animation](img/fork-a-repo.gif)
 Når du har kigget på den sjove animation, har du fået oprettet din helt egen kopi af projektet. Det er den du skal arbejde videre med på din computer. Altså i __CS 50 maskinen__.
 
 ## Vi skal Klone
@@ -60,3 +61,8 @@ og lidt efter, ligger det hele på github.org.
 ## Bed om en tilbagelægning
 På github-engelsk, et pull request.
 Der er når man foreslår at de ændringer man har lavet i sin __fork__ af projektet, bliver lagt ind i original-projektet.
+![zzz](fork_pull_request1.PNG)
+![zzz](fork_pull_request2.PNG)
+![zzz](fork_pull_request3.PNG)
+
+
